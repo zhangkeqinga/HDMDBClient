@@ -1,0 +1,7 @@
+platform :ios,'7.0'
+pod 'FMDB', '~> 2.3'
+pod 'MD5Digest', '~> 0.1.0'
+pod 'SBJson', '~> 3.1.1'
+pod 'Base64', '~> 1.0.1'
+pod 'AFNetworking', '~> 2.3.1'
+pod 'MBProgressHUD', '~> 0.8'
